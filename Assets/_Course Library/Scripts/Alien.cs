@@ -38,7 +38,7 @@ public class Alien : MonoBehaviour
     {
       
 
-        if (gameManager.startersDone)
+        if (gameManager.dishServed)
         {
             if (transform.position.z < targetPos.transform.position.z)
             {

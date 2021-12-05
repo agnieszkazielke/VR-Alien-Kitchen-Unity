@@ -1,21 +1,29 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class GameManager : MonoBehaviour
 {
 
-    public GameObject servingPlate;
+    public GameObject servingDish;
     public GameObject servingArea;
     public Canvas taskDone;
    // public bool startersCheck;
    // public bool servingAreaCheck;
-    public bool startersDone;
+    public bool dishServed;
 
+
+    public string sceneName;
+    public string sceneName_1 = "VR Kitchen_Scene_1_Starters";
+    public string sceneName_2 = "VR Kitchen_Scene_2_Sandwiches";
+    public string sceneName_3 = "VR Kitchen_Scene_3_Soup";
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
+        sceneName = SceneManager.GetActiveScene().name;
         // startersCheck = servingPlate.GetComponent<StartersCheck>().plateLoaded;
         // servingAreaCheck = servingArea.GetComponent<ServingCheck>().plateServed;
     }
@@ -25,18 +33,60 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (servingPlate.GetComponent<StartersCheck>().plateLoaded == true && servingArea.GetComponent<ServingCheck>().plateServed == true)
+
+        if (sceneName == sceneName_1)
         {
-            Debug.Log("TASK DONE MATE");
-            startersDone = true;
-            taskDone.gameObject.SetActive(true);
-            
+            if (servingDish.GetComponent<ServingPlate>().plateLoaded == true && servingArea.GetComponent<ServingCheck>().plateServed == true)
+            {
+                Debug.Log("TASK DONE");
+                dishServed = true;
+                taskDone.gameObject.SetActive(true);
+
+            }
+
+            else
+            {
+                dishServed = false;
+            }
         }
 
-        else
+
+        if (sceneName == sceneName_2)
         {
-            startersDone = false;
+            if (servingDish.GetComponent<ServingPlate>().plateLoaded == true && servingArea.GetComponent<ServingCheck>().plateServed == true)
+            {
+                Debug.Log("TASK DONE");
+                dishServed = true;
+                taskDone.gameObject.SetActive(true);
+
+            }
+
+            else
+            {
+                dishServed = false;
+            }
         }
+
+
+
+        if (sceneName == sceneName_3)
+        {
+            if (servingDish.GetComponent<ServingBowl>().soupServed == true && servingArea.GetComponent<ServingCheck>().plateServed == true)
+            {
+                Debug.Log("TASK DONE");
+                dishServed = true;
+                taskDone.gameObject.SetActive(true);
+
+            }
+        }
+
+
+
+
+
+
 
     }
+
+
 }

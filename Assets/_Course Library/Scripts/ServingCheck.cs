@@ -11,21 +11,15 @@ public class ServingCheck : MonoBehaviour
     public void SetPlateServed()
     {
         plateServed = true;
+        Debug.Log("You served the dish");
     }
 
     public void UndoPlateServed()
     {
         plateServed = false;
+        Debug.Log("You unserved the dish");
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        if (plateServed)
-        {
-            Debug.Log("YOU SERVED THE PLATE");
 
-        }
-
-    }
 }

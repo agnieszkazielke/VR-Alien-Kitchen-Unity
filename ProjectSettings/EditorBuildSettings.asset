@@ -5,9 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Kitchen.unity
-    guid: afdcb113ffd5a4353ad88f0dd03743af
+    path: Assets/Scenes/Menu.unity
+    guid: cbc2e4af4d2d0ab46a9aec63f883d6c4
+  - enabled: 1
+    path: Assets/Scenes/VR Kitchen_Scene_1_Starters.unity
+    guid: 4fa2db6b675df5949954a81ac7c544d3
+  - enabled: 1
+    path: Assets/Scenes/VR Kitchen_Scene_2_Sandwiches.unity
+    guid: 0e275018a3512bb429319b01cd78518c
+  - enabled: 1
+    path: Assets/Scenes/VR Kitchen_Scene_3_Soup.unity
+    guid: 7474059a80e4ea54499dcebb661c746b
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8fccb80e6c9a84389a75f2c1ed4d786d, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 28d8502d46f11a34f83876559538922d, type: 2}

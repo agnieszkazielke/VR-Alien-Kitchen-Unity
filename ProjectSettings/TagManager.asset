@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Knife
+  - Ladle
+  - Saucepan
+  - Butter
+  - Ham
+  - Cheese
+  - Bread
+  - Sandwich
   layers:
   - Default
   - TransparentFX
@@ -11,17 +19,17 @@ TagManager:
   - Raycasts
   - Water
   - UI
-  - Ham
-  - Bread
-  - Cheese
+  - 
+  - Sandwich
+  - 
   - Hummus
   - Olives
   - Breadsticks
-  - Starter Plate
-  - 
-  - 
-  - 
-  - 
+  - Serving Dish
+  - Carrot
+  - Parsnip
+  - Pumpkin
+  - Cooking Dish 1
   - 
   - 
   - 
