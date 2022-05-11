@@ -1,0 +1,110 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 23.11.2020 12:10:23
+
+newmtl Double_Bass_Bow
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\smycec__diffuse.jpg
+	map_Kd B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\smycec__diffuse.jpg
+
+newmtl Double_Bass
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\Double_Bass_diffuse_02.jpg
+	map_Kd B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\Double_Bass_diffuse_02.jpg
+
+newmtl _aluminium_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.4941 0.5098 0.5059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _velvet_red__MAP_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0863 0.0118 0.0118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\velvet.jpg
+	map_Kd B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\velvet.jpg
+
+newmtl 3DScan_Man_036
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\3DScan_Man_036.jpg
+	map_Kd B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\3DScan_Man_036.jpg
+
+newmtl Bowtie
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\bowtie.jpg
+	map_Kd B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\bowtie.jpg
+
+newmtl 11___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+
+newmtl 10___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\logo_small.png
+	map_Kd B:\data_eshop\people\3DScan_Man_036_JJ_Double_Bassist\export\logo_small.png

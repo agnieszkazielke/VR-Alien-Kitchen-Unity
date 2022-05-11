@@ -1,0 +1,563 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22000.556; Version 2009; 64bit' Language: 'en' Physical Memory: 16295 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/UNITY/Github/VR-Kitchen-Unity
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+60973
+Successfully changed project path to: D:/UNITY/Github/VR-Kitchen-Unity
+D:/UNITY/Github/VR-Kitchen-Unity
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 129.07 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 3.62 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UNITY/Github/VR-Kitchen-Unity/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2486)
+    Vendor:   
+    VRAM:     8050 MB
+    Driver:   30.0.14.7208
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56136
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002154 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 98.40 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.06 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.827 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010104 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 99.22 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.06 ms.
+Can't find custom attr constructor image: D:\UNITY\Github\VR-Kitchen-Unity\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Refreshing native plugins compatible for Editor in 1.57 ms, found 15 plugins.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.59.0
+Mono: successfully reloaded assembly
+- Completed reload, in  2.492 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.55 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Unloading 4471 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.1 MB.
+System memory in use after: 209.1 MB.
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 4882.
+Total: 2.926300 ms (FindLiveObjects: 0.461300 ms CreateObjectMapping: 0.111800 ms MarkObjects: 2.263400 ms  DeleteObjects: 0.088900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/VR Kitchen_Scene_1_Starters.unity
+  artifactKey: Guid(4fa2db6b675df5949954a81ac7c544d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR Kitchen_Scene_1_Starters.unity using Guid(4fa2db6b675df5949954a81ac7c544d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5984699d3fce13152fe94e9bdd869aa2') in 0.013371 seconds
+  Import took 0.019380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Scenes/VR Kitchen_Scene_2_Sandwiches.unity
+  artifactKey: Guid(0e275018a3512bb429319b01cd78518c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR Kitchen_Scene_2_Sandwiches.unity using Guid(0e275018a3512bb429319b01cd78518c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb18092c246c0004d65394e84baf795') in 0.006905 seconds
+  Import took 0.017270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 173.528004 seconds.
+  path: Assets/Scenes/VR Kitchen_Scene_3_Soup.unity
+  artifactKey: Guid(7474059a80e4ea54499dcebb661c746b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR Kitchen_Scene_3_Soup.unity using Guid(7474059a80e4ea54499dcebb661c746b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2e6f4bd65e51f28da67d469bb94040') in 0.002650 seconds
+  Import took 0.077343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.628301 seconds.
+  path: Assets/Prefabs/Banana Yellow Games/Characters/Banana Man/Demo Scene
+  artifactKey: Guid(b331a89182c46dd4993cc126bb7c0461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Banana Yellow Games/Characters/Banana Man/Demo Scene using Guid(b331a89182c46dd4993cc126bb7c0461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd91ae0b0787e356d178bfa7eee39d52d') in 0.002503 seconds
+  Import took 0.034321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.927559 seconds.
+  path: Assets/Prefabs/alien character
+  artifactKey: Guid(2ba539c466fa7c047b29d71f3924d2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/alien character using Guid(2ba539c466fa7c047b29d71f3924d2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9e26fd9dfcd1ab36ac6ccb2fd761a70') in 0.010370 seconds
+  Import took 0.016369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.822362 seconds.
+  path: Assets/Prefabs/Cartoon_Farm_Crops/Scenes
+  artifactKey: Guid(2d31bdbebf440f642822ffc9caace8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cartoon_Farm_Crops/Scenes using Guid(2d31bdbebf440f642822ffc9caace8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c507f7e7c9226969a964113bb8a5123') in 0.012174 seconds
+  Import took 0.029487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.663735 seconds.
+  path: Assets/Prefabs/Character_Monster/Mesh/Materials
+  artifactKey: Guid(8e82adf149ee84f45af287a2e84dd4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Character_Monster/Mesh/Materials using Guid(8e82adf149ee84f45af287a2e84dd4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e476ada2d1b8efe4f2cc363c35945334') in 0.018412 seconds
+  Import took 0.037799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.018938 seconds.
+  path: Assets/Prefabs/Character_Rhinoceros/Scene
+  artifactKey: Guid(93ee3fff963873d4ebc57a5eeeccbea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Character_Rhinoceros/Scene using Guid(93ee3fff963873d4ebc57a5eeeccbea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92be400060cd2d7a63f9d777c2c7568') in 0.002295 seconds
+  Import took 0.008913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.409399 seconds.
+  path: Assets/Prefabs/Creature_Monsters_X/Demo_scene
+  artifactKey: Guid(da6f9c96974b5a24f9953abca15fef73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Creature_Monsters_X/Demo_scene using Guid(da6f9c96974b5a24f9953abca15fef73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae28920ffef466f466eb98cd03443b5') in 0.002414 seconds
+  Import took 0.014820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.822344 seconds.
+  path: Assets/Prefabs/KitchenAppliances/Scenes
+  artifactKey: Guid(240c30c7dd14fbe409e94260a8880a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/KitchenAppliances/Scenes using Guid(240c30c7dd14fbe409e94260a8880a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3056301a9c860f9031cb043e4f29a9f5') in 0.002351 seconds
+  Import took 0.128830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.091730 seconds.
+  path: Assets/Prefabs/Musical Instruments/DemoScene.unity
+  artifactKey: Guid(60320d32750ee480b8cbc3a2083dda4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Musical Instruments/DemoScene.unity using Guid(60320d32750ee480b8cbc3a2083dda4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe4e935f5545d91ac983cf6b2d95f5e0') in 0.002608 seconds
+  Import took 0.014414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.641170 seconds.
+  path: Assets/Prefabs/Rabbit/GraphLibrary/Model/Merged/Characters/Cartoon/Rabbit/Rabbit_SourceBlender.zip
+  artifactKey: Guid(4bf26d6e56d58864fb82642a9b14aba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rabbit/GraphLibrary/Model/Merged/Characters/Cartoon/Rabbit/Rabbit_SourceBlender.zip using Guid(4bf26d6e56d58864fb82642a9b14aba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd19ddb18380ff659924d57038de4a05e') in 0.018982 seconds
+  Import took 0.025411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.503021 seconds.
+  path: Assets/Prefabs/RFA/Default Render
+  artifactKey: Guid(a5b540c8f1eb83144a3499b7b17c7f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/RFA/Default Render using Guid(a5b540c8f1eb83144a3499b7b17c7f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c033e474cb832fde89fb9bc98b489f40') in 0.002342 seconds
+  Import took 0.022598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.449842 seconds.
+  path: Assets/Prefabs/RFA/Common/Models
+  artifactKey: Guid(0e66b950c5059b1478fcc9ac81f72aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/RFA/Common/Models using Guid(0e66b950c5059b1478fcc9ac81f72aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a13dd1304923755bf6c4713c76491b0') in 0.007606 seconds
+  Import took 0.027009 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011142 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.59 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Can't find custom attr constructor image: D:\UNITY\Github\VR-Kitchen-Unity\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Refreshing native plugins compatible for Editor in 1.61 ms, found 15 plugins.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.835 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.61 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Unloading 4172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.7 MB.
+System memory in use after: 185.9 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 4884.
+Total: 2.515300 ms (FindLiveObjects: 0.375500 ms CreateObjectMapping: 0.115500 ms MarkObjects: 1.991800 ms  DeleteObjects: 0.031500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 50.823404 seconds.
+  path: Assets/Prefabs/RootVegetables/Scenes
+  artifactKey: Guid(754539e914844ff4ea4a4ff791d0c7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/RootVegetables/Scenes using Guid(754539e914844ff4ea4a4ff791d0c7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be3f2102a7471dc264aaa4412bd6c7d') in 0.021186 seconds
+  Import took 0.027275 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010863 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.59 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.06 ms.
+Can't find custom attr constructor image: D:\UNITY\Github\VR-Kitchen-Unity\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Refreshing native plugins compatible for Editor in 1.60 ms, found 15 plugins.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.835 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.64 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.06 ms.
+Unloading 4171 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.7 MB.
+System memory in use after: 186.0 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 4887.
+Total: 2.656000 ms (FindLiveObjects: 0.476300 ms CreateObjectMapping: 0.110400 ms MarkObjects: 2.036000 ms  DeleteObjects: 0.032100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 18.152924 seconds.
+  path: Assets/Prefabs/Scary halloween man/Slender
+  artifactKey: Guid(f60e9a2c37c147519c79b944310b477a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Scary halloween man/Slender using Guid(f60e9a2c37c147519c79b944310b477a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5746e7eec8cff55dec378e055c098091') in 0.020485 seconds
+  Import took 0.030789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.447303 seconds.
+  path: Assets/Prefabs/Scary halloween man/Example
+  artifactKey: Guid(7b4d6243c3cd46a890514d984f5134d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Scary halloween man/Example using Guid(7b4d6243c3cd46a890514d984f5134d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e2585e50f19f0ba79945e2d71b3a4b') in 0.002123 seconds
+  Import took 0.018644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.573577 seconds.
+  path: Assets/Prefabs/Scary halloween man/Example/Environment
+  artifactKey: Guid(6d61ec9821714a95a179bf363df1c7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Scary halloween man/Example/Environment using Guid(6d61ec9821714a95a179bf363df1c7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd201533a567277fe1060d41870f5b2') in 0.002606 seconds
+  Import took 0.020574 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011111 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.67 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Can't find custom attr constructor image: D:\UNITY\Github\VR-Kitchen-Unity\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Refreshing native plugins compatible for Editor in 1.64 ms, found 15 plugins.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.844 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.62 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.06 ms.
+Unloading 4117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 184.5 MB.
+System memory in use after: 184.8 MB.
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 4851.
+Total: 2.681500 ms (FindLiveObjects: 0.472200 ms CreateObjectMapping: 0.096800 ms MarkObjects: 2.073800 ms  DeleteObjects: 0.037800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011505 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.59 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.06 ms.
+Can't find custom attr constructor image: D:\UNITY\Github\VR-Kitchen-Unity\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Refreshing native plugins compatible for Editor in 1.62 ms, found 15 plugins.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.866 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.57 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.06 ms.
+Unloading 4108 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 184.1 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 78 unused Assets to reduce memory usage. Loaded Objects now: 4846.
+Total: 2.588800 ms (FindLiveObjects: 0.442300 ms CreateObjectMapping: 0.106400 ms MarkObjects: 2.007400 ms  DeleteObjects: 0.031600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 103.621701 seconds.
+  path: Assets/Standard Assets/Effects
+  artifactKey: Guid(9fa2c84e87877e848b327e4407d75e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects using Guid(9fa2c84e87877e848b327e4407d75e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd22c5e9f5998b84f357bc3c4c8b11627') in 0.006965 seconds
+  Import took 0.053083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.894368 seconds.
+  path: Assets/Standard Assets/Effects/ToonShading
+  artifactKey: Guid(7dfc22bb1d4bed045b0f567f2ccae5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects/ToonShading using Guid(7dfc22bb1d4bed045b0f567f2ccae5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13de62eb22eef33d3c767ef7259ee9f4') in 0.008063 seconds
+  Import took 0.020389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.959384 seconds.
+  path: Assets/Standard Assets/Effects/ToonShading/Textures
+  artifactKey: Guid(82a256fac16cf8f4e878c58f602b6d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects/ToonShading/Textures using Guid(82a256fac16cf8f4e878c58f602b6d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78f5757c87f0b5303f5e54600186330') in 0.001952 seconds
+  Import took 0.044069 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 79.49 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.05 ms.
+Unloading 66 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.8 MB.
+System memory in use after: 109.1 MB.
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 4846.
+Total: 3.156100 ms (FindLiveObjects: 0.476600 ms CreateObjectMapping: 0.126400 ms MarkObjects: 2.517100 ms  DeleteObjects: 0.034900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 475.055244 seconds.
+  path: Assets/Scenes/VR Kitchen_Scene_2_Sandwiches.unity
+  artifactKey: Guid(0e275018a3512bb429319b01cd78518c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR Kitchen_Scene_2_Sandwiches.unity using Guid(0e275018a3512bb429319b01cd78518c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc9ce2b537af6032fa9a94f37f904c1') in 0.009064 seconds
+  Import took 0.029242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.839248 seconds.
+  path: Assets/Scenes/VR Kitchen_Scene_3_Soup.unity
+  artifactKey: Guid(7474059a80e4ea54499dcebb661c746b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR Kitchen_Scene_3_Soup.unity using Guid(7474059a80e4ea54499dcebb661c746b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08353bd6823be01f165029d0eb6b35ea') in 0.002126 seconds
+  Import took 0.020954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.964115 seconds.
+  path: Assets/Scenes/VR Kitchen_Scene_2_Sandwiches.unity
+  artifactKey: Guid(0e275018a3512bb429319b01cd78518c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR Kitchen_Scene_2_Sandwiches.unity using Guid(0e275018a3512bb429319b01cd78518c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0a34505923ec2b0d1e9b455ae3efd9') in 0.002289 seconds
+  Import took 0.019750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.736120 seconds.
+  path: Assets/Scenes/VR Kitchen_Scene_1_Starters.unity
+  artifactKey: Guid(4fa2db6b675df5949954a81ac7c544d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR Kitchen_Scene_1_Starters.unity using Guid(4fa2db6b675df5949954a81ac7c544d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb075f58e569c8a41ef921f8c7bd133') in 0.002127 seconds
+  Import took 0.013130 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 15.03 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.05 ms.
+Unloading 66 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.9 MB.
+System memory in use after: 109.2 MB.
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 4846.
+Total: 3.344900 ms (FindLiveObjects: 0.467300 ms CreateObjectMapping: 0.133700 ms MarkObjects: 2.698000 ms  DeleteObjects: 0.044300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.171979 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.76 ms, found 18 plugins.
+Preloading 2 native plugins for Editor in 0.08 ms.
+Can't find custom attr constructor image: D:\UNITY\Github\VR-Kitchen-Unity\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Refreshing native plugins compatible for Editor in 1.70 ms, found 18 plugins.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.006 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.69 ms, found 18 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Unloading 4251 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.9 MB.
+System memory in use after: 188.9 MB.
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 4980.
+Total: 2.778000 ms (FindLiveObjects: 0.486200 ms CreateObjectMapping: 0.112500 ms MarkObjects: 2.045400 ms  DeleteObjects: 0.132700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011357 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.65 ms, found 18 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Can't find custom attr constructor image: D:\UNITY\Github\VR-Kitchen-Unity\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Refreshing native plugins compatible for Editor in 1.71 ms, found 18 plugins.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.874 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.68 ms, found 18 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Unloading 4251 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.9 MB.
+System memory in use after: 188.9 MB.
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 4984.
+Total: 3.029100 ms (FindLiveObjects: 0.593500 ms CreateObjectMapping: 0.221700 ms MarkObjects: 2.061500 ms  DeleteObjects: 0.151100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012738 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 18 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Can't find custom attr constructor image: D:\UNITY\Github\VR-Kitchen-Unity\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Refreshing native plugins compatible for Editor in 1.78 ms, found 18 plugins.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.908 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.70 ms, found 18 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Unloading 4251 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.9 MB.
+System memory in use after: 189.0 MB.
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 4988.
+Total: 2.841900 ms (FindLiveObjects: 0.552800 ms CreateObjectMapping: 0.115200 ms MarkObjects: 2.031800 ms  DeleteObjects: 0.140700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.507815 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.98 ms, found 18 plugins.
+Preloading 2 native plugins for Editor in 0.12 ms.
+Can't find custom attr constructor image: D:\UNITY\Github\VR-Kitchen-Unity\Library\PackageCache\com.unity.ads@3.4.5\Editor\UnityEditor.Advertisements.dll mtoken: 0x0a00000f due to:  assembly:C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll type:UnityAPICompatibilityVersionAttribute member:void {0}(string,string[]) signature:.ctor
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Refreshing native plugins compatible for Editor in 1.66 ms, found 18 plugins.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.216 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.66 ms, found 18 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Unloading 4251 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.9 MB.
+System memory in use after: 189.0 MB.
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 4992.
+Total: 2.893200 ms (FindLiveObjects: 0.438400 ms CreateObjectMapping: 0.119500 ms MarkObjects: 2.126500 ms  DeleteObjects: 0.207900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
